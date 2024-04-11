@@ -16,6 +16,7 @@ if __name__ == '__main__':
     print("hot-fix")
     print('dadaw')
     print('3')
+    print('4')
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
